@@ -1,0 +1,9 @@
+{
+	"repositories" : [
+		{
+			"isDefault" : true,
+			"url" : "git@bitbucket.org:telnextalldevs/",
+			"platform" : "bitbucket"
+		}
+	]
+}

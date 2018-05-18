@@ -1,0 +1,34 @@
+{
+  "name": "spm",
+  "version": "0.0.1",
+  "description": "Salesforce Package Manager",
+  "main": "index.js",
+  "bin": {
+    "spm": "./index.js"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tr4uma/spm.git"
+  },
+  "keywords": [
+    "salesforce",
+    "package",
+    "manager",
+    "spm"
+  ],
+  "author": "Marco Dagrada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tr4uma/spm/issues"
+  },
+  "homepage": "https://github.com/tr4uma/spm#readme",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "gitane": "^0.3.2",
+    "lodash": "^4.17.10",
+    "npm": "^6.0.1"
+  }
+}
